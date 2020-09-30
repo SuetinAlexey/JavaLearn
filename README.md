@@ -1,2 +1,2 @@
 # JavaLearn
-Repository for Learn Java
+Repository for learning Java
