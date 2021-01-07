@@ -19,6 +19,7 @@
 
     <modules>
         <module>HomeWork1</module>
+        <module>GeometricFigures</module>
     </modules>
 
     <properties>
